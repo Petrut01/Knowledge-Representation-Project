@@ -1,0 +1,50 @@
+
+euristica banala
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 28.147459030151367
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 30.202150344848633
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 30.202150344848633
+ionel v george > diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 30.202150344848633
+noduri in memorie: 29
+noduri procesate: 1703
+
+
+euristica manhattan
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 8.087158203125
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara > dragos
+lungime: 19
+cost: 13
+timp solutie: 8.087158203125
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 8.087158203125
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara > dragos
+lungime: 17
+cost: 13
+timp solutie: 8.087158203125
+noduri in memorie: 29
+noduri procesate: 357
+
+IDA* timed out
+
+euristica neadmisibila
+Nu exista drum
+timp solutie: 687.8566741943359
+noduri in memorie: 46
+noduri procesate: 61877
+

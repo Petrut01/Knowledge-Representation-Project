@@ -1,0 +1,16 @@
+IDA* timed out
+
+euristica manhattan
+Nu exista drum
+timp solutie: 516.7050361633301
+noduri in memorie: 45
+noduri procesate: 52496
+
+IDA* timed out
+
+euristica neadmisibila
+Nu exista drum
+timp solutie: 670.6178188323975
+noduri in memorie: 45
+noduri procesate: 61035
+

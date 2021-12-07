@@ -1,0 +1,28 @@
+
+euristica banala
+Nu exista cale
+timp solutie: 117.54655838012695
+noduri in memorie: 1269
+noduri procesate: 3443
+
+
+euristica manhattan
+Nu exista cale
+timp solutie: 136.13510131835938
+noduri in memorie: 1106
+noduri procesate: 3443
+
+
+euristica euclidiana
+Nu exista cale
+timp solutie: 146.78001403808594
+noduri in memorie: 1081
+noduri procesate: 3443
+
+
+ euristica neadmisibila
+Nu exista cale
+timp solutie: 106.3389778137207
+noduri in memorie: 239
+noduri procesate: 3443
+

@@ -1,0 +1,36 @@
+
+euristica banala
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 1269
+noduri procesate: 3451
+
+
+euristica manhattan
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 1247
+noduri procesate: 3451
+
+
+euristica euclidiana
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 1253
+noduri procesate: 3451
+
+
+ euristica neadmisibila
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 239
+noduri procesate: 3451
+

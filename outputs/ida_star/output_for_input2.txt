@@ -1,0 +1,20 @@
+IDA* timed out
+
+euristica manhattan
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 46
+noduri procesate: 61523
+
+IDA* timed out
+
+euristica neadmisibila
+ionel
+lungime: 1
+cost: 0
+timp solutie: 0.0
+noduri in memorie: 46
+noduri procesate: 64063
+

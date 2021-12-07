@@ -1,0 +1,5 @@
+Nu exista cale
+timp solutie: 253.98874282836914
+noduri in memorie: 1177
+noduri procesate: 3443
+

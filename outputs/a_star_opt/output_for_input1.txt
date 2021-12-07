@@ -1,0 +1,36 @@
+
+euristica banala
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 0.0
+noduri in memorie: 31
+noduri procesate: 43
+
+
+euristica manhattan
+ionel v george > diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 0.0
+noduri in memorie: 31
+noduri procesate: 41
+
+
+euristica euclidiana
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 0.0
+noduri in memorie: 29
+noduri procesate: 41
+
+
+euristica neadmisibila
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 2.047300338745117
+noduri in memorie: 30
+noduri procesate: 42
+

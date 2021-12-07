@@ -1,0 +1,19 @@
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 3.036355972290039
+ionel v george > diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 3.036355972290039
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 3.036355972290039
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 3.036355972290039
+noduri in memorie: 389
+noduri procesate: 553
+

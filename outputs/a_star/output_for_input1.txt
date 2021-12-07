@@ -1,0 +1,84 @@
+
+euristica banala
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 1.0134220123291016
+ionel v george > diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 1.0134220123291016
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 1.0134220123291016
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 1.0134220123291016
+noduri in memorie: 373
+noduri procesate: 533
+
+
+euristica manhattan
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara > dragos
+lungime: 19
+cost: 13
+timp solutie: 0.0
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 0.0
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara > dragos
+lungime: 17
+cost: 13
+timp solutie: 0.8097648620605469
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 0.8097648620605469
+noduri in memorie: 221
+noduri procesate: 240
+
+
+euristica euclidiana
+ionel > alina v diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 1.0110855102539062
+ionel v george > diana v costin v simona v razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 15
+cost: 13
+timp solutie: 1.0110855102539062
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 1.0110855102539062
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 1.0110855102539062
+noduri in memorie: 307
+noduri procesate: 337
+
+
+ euristica neadmisibila
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena ^ dragos
+lungime: 17
+cost: 13
+timp solutie: 2.025580406188965
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara > dragos
+lungime: 19
+cost: 13
+timp solutie: 2.829885482788086
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara ^ dora > marin v dragos
+lungime: 21
+cost: 15
+timp solutie: 3.032994270324707
+ionel v george > diana v costin v simona < luiza v mihnea > razvan v andrei >> oana > victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara ^ dora ^ nadia > mihai v marin v dragos
+lungime: 23
+cost: 17
+timp solutie: 3.032994270324707
+noduri in memorie: 239
+noduri procesate: 643
+
